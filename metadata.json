@@ -1,0 +1,6 @@
+{
+  "name": "Resume AI Critique Reviewer",
+  "description": "A clean, professional AI-powered resume review application that provides instant critiques, ATS scanners, and before/after actionable bullet-point recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
